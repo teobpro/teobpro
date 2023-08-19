@@ -1,6 +1,4 @@
 - Hi, I’m @teobpro
-- I’m interested in python programming language
-- I’m currently learning python, i am still beginner
 - I’m a student in Telkom University with major Engineering Physics
 
 <!---
